@@ -2,8 +2,8 @@
 #include <fstream>
 #include <vector>
 #include <cstring>
-#include "../LibraryCPP/queue.h"
-#include "../LibraryCPP/list.h"
+#include "queue.h"
+#include "list.h"
 #include <string>
 
 using namespace std;
